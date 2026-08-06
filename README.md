@@ -9,4 +9,6 @@ Documenting my daily c programming practice, logic building, and BCA coursework.
 - `first_step.c` - Basic program structure
 - `day1_input.c` - Interactive user input
 - `day1_calc.c` - Daily earning calculations
-- `day1_conditions.c` - Goal tracking logic 
+- `day1_conditions.c` - Goal tracking logic
+- `daily-tracker.c` - Daily target vs actual earning tracker
+- `attendance_checker.c` - Student exam eligibility calculator
